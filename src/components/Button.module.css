@@ -1,0 +1,18 @@
+.button {
+  font-size: 1rem;
+  border-radius: 0.3125rem;
+  padding: 0.75rem 1.25rem;
+  appearance: none;
+  display: block;
+  width: 100%;
+  margin-bottom: 1.25rem;
+  background: #fb1;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.button:focus {
+  outline: none;
+}
